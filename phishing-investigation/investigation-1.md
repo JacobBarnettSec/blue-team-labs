@@ -34,3 +34,5 @@ Malicious
 - User notification: Advise the user not to open the attachment or click any links, and confirm no credentials were entered.  
 - Blocking actions: Block the malicious URL and attachment at the email gateway and endpoint security solutions.  
 - Escalation required: Escalate to Tier 2 SOC analyst or Incident Response team for further investigation and reporting.
+
+*Note: Escalation to Tier 2 or Incident Response is recommended as a best practice, even if the immediate threat is mitigated, to ensure proper logging, reporting, and potential follow-up with the affected user.*
