@@ -16,3 +16,6 @@ Analyze a suspicious email to determine whether it is malicious and recommend ap
 - Threat intelligence enrichment
 - Incident decision making
 - Documentation
+
+## Source / Reference 
+Phishing email sample adapted from the public repository: https://github.com/autinerd/phishing-mail-examples All personal info and real identifiers have been removed for privacy and safe demonstration purposes.
