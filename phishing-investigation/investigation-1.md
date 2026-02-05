@@ -1,10 +1,10 @@
 # Phishing Investigation #1
 
 ## Email Overview
-- Reported by:
-- Date received:
-- Subject:
-- Sender address:
+- Reported by: User
+- Date received: Unknown
+- Subject: New Voice Message
+- Sender address: Unknown (spoofed voicemail notification)
 
 ## Initial Assessment
 Explain why this email appears suspicious.
