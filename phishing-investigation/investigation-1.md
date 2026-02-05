@@ -37,4 +37,5 @@ Malicious
 
 *Note: Escalation to Tier 2 or Incident Response is recommended as a best practice, even if the immediate threat is mitigated, to ensure proper logging, reporting, and potential follow-up with the affected user.*
 
-## Source / Reference Phishing email sample adapted from the public repository: https://github.com/autinerd/phishing-mail-examples All personal info and real identifiers have been removed for privacy and safe demonstration purposes.
+## Source / Reference 
+Phishing email sample adapted from the public repository: https://github.com/autinerd/phishing-mail-examples All personal info and real identifiers have been removed for privacy and safe demonstration purposes.
