@@ -17,7 +17,7 @@ This project simulates the role of a SOC analyst triaging security alerts genera
 - Verdict: True Positive  
 - Process Name: chrome.exe  
 - Target File: C:\Users\S.Conway\Downloads\cats2025.mp4.exe  
-- File MotW URL: https://freecatvideoshd.monster/cats2025.mp4.exe  
+- File MotW URL: [Simulated malicious file in lab environment]  
 - File MD5: 14d8486f3f63875ef93cfd240c5dc10b  
 
 ### Initial Observation
