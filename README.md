@@ -19,6 +19,16 @@ All labs are performed using browser-based and open-source tools to demonstrate 
 
 ---
 
+## Tools & Techniques
+
+![VirusTotal](https://img.shields.io/badge/VirusTotal-OSINT-blue) 
+![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-OSINT-blue) 
+![URLScan](https://img.shields.io/badge/URLScan-OSINT-blue) 
+![WHOIS](https://img.shields.io/badge/WHOIS-DNS-orange) 
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT--CK-Mapping-red) 
+![Browser-Based](https://img.shields.io/badge/Skill-Browser--Based-blue)
+
+---
+
 ## Structure
 Each project includes a README and a detailed case file documenting methodology, findings, and recommended actions.
-
