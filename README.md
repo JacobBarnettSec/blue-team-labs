@@ -1,3 +1,7 @@
+![Saviva Labs](https://img.shields.io/badge/Saviva-Labs-4B9CD3)
+![IT & Cybersecurity](https://img.shields.io/badge/IT%20%26%20Cybersecurity-Projects-6A5ACD)
+![Hands-On Portfolio](https://img.shields.io/badge/Hands--On-Portfolio-0A66C2)
+
 # Blue Team Labs - SOC Analyst Portfolio
 
 This repository contains hands-on blue team and SOC analyst projects designed to simulate real-world SOC workflows. Projects focus on:  
